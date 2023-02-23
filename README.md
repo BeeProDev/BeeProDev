@@ -13,12 +13,24 @@
 
 - 📫 How to reach me **bilalofficial1756@gmail.com**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BeeProDev&label=Profile%20views&color=0e75b6&style=flat" alt="BeeProDev" /> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/muhammad-bilal-b03887159/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeeProDev&show_icons=true&locale=en&layout=compact" alt="BeeProDev" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BeeProDev&label=Profile%20views&color=0e75b6&style=flat" alt="BeeProDev" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BeeProDev&show_icons=true&locale=en" alt="BeeProDev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BeeProDev&" alt="BeeProDev" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BeeProDev" alt="BeeProDev" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeeProDev&layout=compact&theme=vision-friendly-light" alt="BeeProDev" /></p>
+
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BeeProDev" alt="BeeProDev" /></a> </p>
